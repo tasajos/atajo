@@ -1,0 +1,50 @@
+1.- Git
+2.- Github
+3.- Visual Studio Code
+4.- Postman
+5.- Android Studio
+6.- Flutter sdk
+
+
+-->Lenguaje de programacion dart
+
+a) Install flutter extension
+b) install dart
+
+luego 
+
+Instalar Flutter con VS Code
+Abra la paleta de comandos en VS Code.
+
+Vaya a Ver > Paleta de comandos o presione Control+ Shift+ P.
+
+En la paleta de comandos, escriba flutter.
+
+Seleccione Flutter: Nuevo proyecto .
+
+VS Code te pide que busques el SDK de Flutter en tu ordenador. Selecciona "Descargar SDK" .
+
+Cuando aparezca el cuadro de diálogo Seleccionar carpeta para Flutter SDK , elija dónde desea instalar Flutter.
+
+Haga clic en Clonar Flutter .
+
+Al descargar Flutter, VS Code muestra esta notificación emergente:
+
+Downloading the Flutter SDK. This may take a few minutes.
+copia de contenido
+La descarga tarda unos minutos. Si sospecha que se ha bloqueado, haga clic en Cancelar y reinicie la instalación.
+
+Haga clic en Agregar SDK a PATH .
+
+Cuando tenga éxito, aparecerá una notificación:
+
+The Flutter SDK was added to your PATH
+copia de contenido
+VS Code podría mostrar un aviso de Google Analytics.
+
+Si estás de acuerdo haz clic en Aceptar .
+
+Para garantizar que Flutter esté disponible en todas las terminales:
+
+Cierre y vuelva a abrir todas las ventanas de terminal.
+Reiniciar VS Code.
